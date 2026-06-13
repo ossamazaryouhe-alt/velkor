@@ -1,0 +1,6 @@
+{
+  "name": "KogaBik",
+  "description": "محاكي تفاعلي لتطبيق الأندرويد الأصيل TestApp ومستودع الشيفرة البرمجية الكاملة بلغة Kotlin و Android SDK الحديث.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
